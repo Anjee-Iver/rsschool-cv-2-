@@ -24,7 +24,8 @@ English: B1-B2
 
 ##Experience
 
-##Education
+##Education :
+
 ####Kiev National Institute of Technology and Design
 Photo-, Video-Design
 ####Roling Scopes School
