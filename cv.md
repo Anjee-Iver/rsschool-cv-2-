@@ -5,8 +5,8 @@
    tel.: +380684118137
 
 ##About myself:##
-I am a fast learner, responsible, ready for hard tasks.
-Also, I want to have a possibility to improve my English skills.
+_I am a fast learner, responsible, ready for hard tasks.
+Also, I want to have a possibility to improve my English skills._
 
 ##Hard Skills##
 *HTML5/CSS3
@@ -27,3 +27,8 @@ English: B1-B2
 Photo-, Video-Design
 ####Roling Scopes School####
 JavaScript/Front-end Course (in progress)
+
+###Objective:###
+_I want to be in a good team, where I could improve my skills and use them to interesting tasks.
+I'd like to work on Front end. 
+But, I think, for this, I need a good team lead, who could show me the best practices of work._
