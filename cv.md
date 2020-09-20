@@ -28,6 +28,7 @@ English: B1-B2
 
 ####Kiev National Institute of Technology and Design
 Photo-, Video-Design
+
 ####Roling Scopes School
 JavaScript/Front-end Course (in progress)
 
